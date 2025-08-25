@@ -104,8 +104,8 @@ Configuration:
 - Cached responses improve load times and provide basic offline behavior.
 
 Screenshots/GIFs:
-![Onboarding Screenshot](screenshots/screenshot-1.png)
-![Onboarding Screenshot](screenshots/gif-1.gif)
+<img src="screenshots/screenshot-1.png" alt="Onboarding Screenshot" width="300"/>
+<img src="screenshots/gif-1.gif" alt="Onboarding Animation" width="300"/>
 
 ## Paths of Interest
 
