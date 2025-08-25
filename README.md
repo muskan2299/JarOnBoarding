@@ -74,7 +74,7 @@ Prerequisites:
 Clone and open the project:
 - Run the following from a terminal.
 ```bash
-git clone <your-repo-url>.git
+git clone https://github.com/muskan2299/JarOnBoarding.git
 cd JarOnBoarding
 ```
 
