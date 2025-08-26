@@ -107,6 +107,11 @@ Screenshots/GIFs:
 <img src="screenshots/screenshot-1.png" alt="Onboarding Screenshot" width="300"/>
 <img src="screenshots/gif-1.gif" alt="Onboarding Animation" width="300"/>
 
+### Design Parity
+- Some discrepancies exist between the API data and Figma designs:  
+  - **Images**: API image URLs were blurred compared to Figma assets.  
+  - **Colors**: API colors did not exactly align with Figma’s color palette.  
+
 ## Paths of Interest
 
 - `app/build.gradle.kts`
