@@ -110,7 +110,11 @@ Screenshots/GIFs:
 ### Design Parity
 - Some discrepancies exist between the API data and Figma designs:  
   - **Images**: API image URLs were blurred compared to Figma assets.  
-  - **Colors**: API colors did not exactly align with Figma’s color palette.  
+  - **Colors**: API colors did not exactly align with Figma’s color palette.
+ 
+### Implementation Notes
+- The current animation implementation works as expected, but it could also be achieved using **SharedTransition** for smoother and more consistent transitions across screens.  
+- This approach can be further discussed during the interview to highlight possible improvements and alternative implementations.
 
 ## Paths of Interest
 
